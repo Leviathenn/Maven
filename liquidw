@@ -1,0 +1,17 @@
+(information)
+/|
+    &name | "Maven Package Repositiory Module Implementation For the Creamer Build  System."
+\|
+
+(lib-dep)
+/|
+    &include | "json.jar" 
+\|
+(disc-opti)
+/|
+    &process | "make"
+\|
+(ref)
+/|
+    &parser-dec | "Maven"
+\|
