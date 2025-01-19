@@ -1,6 +1,7 @@
 (information)
 /|
-    &name | "Maven Package Repositiory Module Implementation For the Creamer Build  System."
+    &name | "Maven Package Repositiory Module Implementation For the Creamer Build System."
+    &type | "plugin"
 \|
 
 (lib-dep)
